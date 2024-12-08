@@ -65,7 +65,7 @@ After setting up the environment, run the provided Python script to train the mo
    ```
 2. Run the script:
    ```bash
-   python main.py
+   python ML_Tutorial.py
    ```
 
 ---
