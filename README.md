@@ -12,7 +12,7 @@ This repository contains the code and data used to demonstrate the effects of re
 To begin, download the repository from GitHub. You can either:  
 - **Clone the repository** using Git:
   ```bash
-  git clone [https://github.com/your-username/ML_Repo.git](https://github.com/DeepAstrix/Machine-learning-tutorial.git)
+  git clone https://github.com/DeepAstrix/Machine-learning-tutorial.git
   cd your-repo-name
   ```
 - **Download the ZIP file**:
