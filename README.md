@@ -1,7 +1,7 @@
 
 # Neural Network Regularization Tutorial
 
-This repository contains the code and data used to demonstrate the effects of regularization in neural networks. Follow the steps below to set up the project and reproduce the results.
+This repository contains the code used to demonstrate the effects of regularization in neural networks. Follow the steps below to set up the project and reproduce the results.
 
 ---
 
